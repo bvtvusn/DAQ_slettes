@@ -2,6 +2,10 @@ Hei, denne linjen ble skrevet helt i starten.
 
 OK, denne linjen er fra andre redigering
 
+Sånn, dette er 3. redigering
+
 Hei, denne linjen ble også skrevet helt i starten.
 
 OK, denne linjen er fra andre redigering
+
+Sånn, dette er 3. redigering
