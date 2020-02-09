@@ -1,5 +1,7 @@
 Hei, denne linjen ble skrevet helt i starten.
 
-
+OK, denne linjen er fra andre redigering
 
 Hei, denne linjen ble også skrevet helt i starten.
+
+OK, denne linjen er fra andre redigering
